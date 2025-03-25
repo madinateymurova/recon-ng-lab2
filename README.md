@@ -1,4 +1,4 @@
-# installing recoin-ng on vitual machine
+# installing recon-ng on vitual machine
 
 ![Alt text](https://github.com/madinateymurova/recon-ng-lab2/blob/main/installin%20recon-ng%20on%20virual%20machine.png?raw=true)
 
@@ -6,7 +6,7 @@
 
 ![Alt text](https://github.com/madinateymurova/recon-ng-lab2/blob/main/creating%20workspace.png?raw=true)
 
-# installing of modelue
+# installing of module
 
 ![Alt text](https://github.com/madinateymurova/recon-ng-lab2/blob/main/installing%20of%20module.png?raw=true)
 
